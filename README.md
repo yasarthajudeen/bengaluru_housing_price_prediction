@@ -1,0 +1,1 @@
+In this project i had taken the data from kaggle.i had analysed the data first and then i had done EDA(exploratory data analysis),then i had cleaned the data and created a Machine learning model to predict the price of houses in banglore.
